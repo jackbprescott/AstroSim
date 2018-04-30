@@ -1,7 +1,7 @@
 #AstroSim
 #Copyright Jack Prescott
 #March 11, 2018
-#Test
+#Test 5
 
 import pygame
 import sys
@@ -10,6 +10,7 @@ import csv
 from pygame.locals import *
 
 # Constants
+PINK = (1,2,3)
 WHITE = (255,255,255)
 RED = (255,0,0)
 GREEN = (0,255,0)
